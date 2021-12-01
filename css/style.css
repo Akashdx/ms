@@ -1,0 +1,88 @@
+/*        
+		author:Shohanur Rahman Akash;
+		Email:akashdx28gmail.com;
+*/
+
+/*  global css  */
+body{
+	background-color: #0a2345;
+}
+
+
+
+
+
+
+/*  theme css  */
+
+/*  header section  */
+.cst-head{
+	background-color: #0b234500;
+}
+.cst-btn{
+	padding: 13px 20px 13px 20px;
+    border-radius: 45px;
+    border: solid 2px#153b6d;
+    background-color: #0000ff00;
+    color: #ffffff;
+    margin-top: 30px;
+}
+
+/*  home section  */
+.home{
+	background: url(../img/banner-bg.png)no-repeat;
+	background-size: cover;
+}
+.f-bg{
+	margin: -80px 0px 0px -48px;
+}
+.f-h2{
+	margin-top: 95px;
+    margin-bottom: 35px;
+}
+.cst-btn-2{
+	padding: 13px 25px 13px 25px;
+    border-radius: 45px;
+    border: solid 2px#153b6d;
+    background-color: #0000ff00;
+    color: #ffffff;
+    margin-top: 30px;
+}
+/*  features section  */
+.f-head {
+    margin: -60px 0px 100px 0px;
+}
+.phone-img {
+    margin: -156px 0px 0px -72px;
+}
+.f-2-img{
+	width: 830px;
+    margin: -150px 0px 0px -78px;
+}
+.feature-2{
+	padding: 90px 0px;
+}
+.headphone-img {
+    margin-left: -18px;
+}
+
+/*   download section  */
+.download{
+	background: -webkit-linear-gradient(#0a2345,#030509);
+	padding: 90px 0px;
+}
+.cst-btn-3{
+	padding: 13px 25px 13px 25px;
+    border-radius: 45px;
+    border: solid 2px#153b6d;
+    background-color: #0000ff00;
+    color: #ffffff;
+    margin: -159px 0px 15px 320px;
+}
+
+/*   footer section  */
+.footer{
+	border-top: solid 3px #2a5da3;
+	background: -webkit-linear-gradient(#030509,#010103);
+	padding: 30px 0px;
+}
